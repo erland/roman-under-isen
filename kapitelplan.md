@@ -36,3 +36,37 @@ Romanen var ursprungligen tänkt i 24 kapitel, men berättelsen har vuxit. Rekom
 ## Kommentar
 
 Den ursprungliga planen har följts i grundrörelsen, men inte exakt kapitel för kapitel. Framför allt har akt tre expanderat: hamnövningen, röstkedjan, Mats Holm och pappersarkivet behövde mer utrymme än den första planen förutsåg.
+
+
+## Reviderad slutplan efter kapitel 25
+- Kapitel 26 – Maja-pärmen: sista emotionella fällan, beviskedjan säkras ytterligare.
+- Kapitel 27 – Förrgårspastan: Erik återförenas med Maja och Karin; efterverkan.
+- Kapitel 28 – Under isen: bitterljuv epilog och slutpunkt.
+
+
+## Reviderad slutplan efter kapitel 26
+
+Romanen har vuxit från ursprungliga 24 kapitel till en rekommenderad slutlängd på 28 kapitel.
+
+- **Kapitel 25 – Rätt behörighet:** Arkivet säkras mot falskt centralbeslut. Staffan Ryd blir vittne. (klart)
+- **Kapitel 26 – Maja-pärmen:** Maja-pärmen avslöjas som privat påverkan mot Erik; han väljer att inte läsa den nu och åker mot Maja. (klart)
+- **Kapitel 27 – Förrgårspastan:** Återförening med Maja och Karin. Fokus: pappa först, bevis sedan. Sara/Amina/utredning hålls i bakgrunden.
+- **Kapitel 28 – Under isen:** Epilog/slutpunkt. Sanningen är inte enkel men tillräckligt säkrad; Erik måste leva med ansvar utan att bära Mats version.
+
+
+## Reviderad slutplan efter kapitel 27
+
+- Kapitel 27 – Förrgårspastan: klart. Emotionell återförening med Maja och Karin.
+- Kapitel 28 – Under isen: epilog/slutpunkt. Bör knyta ihop arkivets efterprocess, Saras/Jonas/Helenas konsekvenser och Erik/Maja/Karin. Bitterljuv ton, inte total seger.
+
+
+## Slutlig kapitelstatus efter kapitel 28
+
+Romanen avslutas i 28 kapitel.
+
+- Kapitel 25 – Rätt behörighet: klart.
+- Kapitel 26 – Maja-pärmen: klart.
+- Kapitel 27 – Förrgårspastan: klart.
+- Kapitel 28 – Under isen: klart.
+
+Första utkastet är komplett. Nästa rekommenderade arbetsfas är revision: strukturgenomgång, konsekvenskontroll, tempokontroll och språklig puts.

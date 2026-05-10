@@ -394,3 +394,43 @@
 - Daniella Ek kommer med falska pärmar märkta HW, JB och SL.
 - Mats metod förtydligas: en sann kärna omges av falska fortsättningar.
 - Erik säger att de ska skriva mer än Mats, vilket markerar en vändning från ensam skuld till kollektiv dokumentation.
+
+
+## Uppdatering efter kapitel 25 – Rätt behörighet
+- Kapitel 25 är godkänt och sparat.
+- Staffan Ryd introduceras och arkivet fryses formellt efter att falskt Helena-beslut upptäcks.
+- Eriks röda pärm dokumenteras som äkta/friande i grunden.
+- Nytt hot: möjligt material/pärm om Maja Nordin.
+
+
+## Efter kapitel 26
+
+- **Maja-pärmen:** Blå pärm märkt M.N. Den innehåller privata foton/minnen/missade löften, inte operativt material. Ska förseglas separat och bara öppnas med Erik och berörda anhörigas medgivande, om inte brottsutredning kräver annat.
+- **Eriks utveckling:** Han klarar att stå emot även när hotet gäller hans skam som pappa. Formulering: han ska läsa pärmen, men inte nu, inte ensam och inte genom Mats.
+- **Aminas roll:** Skyddar både beviskedja och personlig integritet. Skickar lappen: “Åk till Maja. Läs inget mer i dag. Var pappa först.”
+- **Staffan Ryd:** Har blivit en viktig processuell broms och etisk vittnesfunktion. Han markerar att Maja-pärmen inte ska in i personalakt eller allmän bilaga.
+- **Sara:** Hjälper Erik förstå att skam kan vara bevis på mänskligt ansvar, men att Mats inte får äga det.
+- **Mats:** Bortförd/gripen, men försöker fortfarande skapa efterberättelser.
+
+
+## Efter kapitel 27
+
+- Kontrollfrasen mellan Erik och Maja/Karin är nu: förrgårspastan/mikron, med kontrollfråga ”vilken sås?” och svaret ”det fanns ingen sås”.
+- Maja-pärmen är erkänd inför Maja och Karin, men ska inte läsas i dag.
+- Erik har erkänt sin frånvaro som pappa utan försvar.
+- Karin och Erik kan samarbeta kortvarigt i skyddssituationen, men relationen är inte reparerad.
+- Saras roll är uttalad som varken god eller ond; hon är på väg till sjukhus och förhör.
+- Amina kommunicerar fortsatt via fysiska lappar och har auktoritet som praktisk broms.
+
+
+## Efter kapitel 28 / slutläge
+
+- Mats Holm är gripen, men processen mot honom fortsätter.
+- Daniella Ek och Rebecka Holm samarbetar i någon mån, sannolikt med egna juridiska risker.
+- Staffan Ryd fungerar som processuell garant kring arkivmaterialet.
+- Eriks röda pärm visar hans tidigare varningar men är fortfarande processuellt infekterad.
+- Maja-pärmen är separat förseglad och ska inte läsas utan Maja/Karin/Eriks medgivande eller särskild juridisk grund.
+- Erik är avstängd från systemåtkomst under utredningen.
+- Sara och Erik har ömsesidiga känslor men ingen romantisk lösning. Sanningen, skuld och rättsprocess måste få plats först.
+- Karin och Erik är inte återförenade romantiskt, men de samarbetar kring Maja.
+- Slutbild: Erik, Karin och Maja på isen i Luleå. Allt under ytan finns kvar, men de tar ett försiktigt steg tillsammans.

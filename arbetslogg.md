@@ -51,3 +51,27 @@
 | 2026-05-09 | Kapitel 23 sparat | Kapitel 23 – De två procenten godkänt och infört i projektpaketet |
 
 | 2026-05-09 | Kapitel 24 sparat | Kapitel 24 – Hylla C godkänt och infört i projektpaketet. Projektet har nu passerat ursprunglig 24-kapitelsplan och rekommenderas avslutas kring kapitel 28. |
+
+
+## Uppdatering efter kapitel 25 – Rätt behörighet
+- Kapitel 25 är godkänt och sparat.
+- Staffan Ryd introduceras och arkivet fryses formellt efter att falskt Helena-beslut upptäcks.
+- Eriks röda pärm dokumenteras som äkta/friande i grunden.
+- Nytt hot: möjligt material/pärm om Maja Nordin.
+
+
+## Kapitel 26 godkänt
+
+- Sparat kapitel 26 – Maja-pärmen.
+- Uppdaterat projektstatus, kapitelplan, tidslinje och kontinuitetsanteckningar.
+- Nästa skrivsteg: kapitel 27 – återföreningen med Maja och Karin.
+
+
+## Kapitel 27 – Förrgårspastan
+
+Kapitel 27 lades till. Fokus: Erik återförenas med Maja och Karin, kontrollfrasen används och utökas, Maja-pärmen förklaras utan att läsas, och Erik väljer att vara pappa först. Amina skickar fysisk lapp med status och ordern att inte läsa mer i dag.
+
+
+## Kapitel 28 – Under isen
+
+Kapitel 28 lades till och första fullständiga utkastet avslutades. Slutkapitlet knyter ihop beviskedjan kring Eriks röda pärm, Saras oavgjorda skuld och relation till Erik, samt familjens första försiktiga steg framåt. Slutbilden på isen i Luleå markerar romanens titel och tema: allt under ytan finns kvar, men Erik står inte längre ensam.

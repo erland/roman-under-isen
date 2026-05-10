@@ -119,3 +119,35 @@
 - Jonas erkänner att han gjort en egen kopia av konferensljudet från 2023.
 - Jonas skriver platsen för kopian på papper och ger den till Henrik.
 - En kvinna i grå kappa anländer och säger att hon kommer med de två procenten.
+
+
+## Uppdatering efter kapitel 25 – Rätt behörighet
+- Kapitel 25 är godkänt och sparat.
+- Staffan Ryd introduceras och arkivet fryses formellt efter att falskt Helena-beslut upptäcks.
+- Eriks röda pärm dokumenteras som äkta/friande i grunden.
+- Nytt hot: möjligt material/pärm om Maja Nordin.
+
+
+## Efter kapitel 26 – Maja-pärmen
+
+- Elins meddelande om en möjlig pärm om Maja analyseras som rörelseorder, inte säker information.
+- Amina, Nadja, Rebecka och Staffan lokaliserar en blå pärm märkt M.N. i gamla projektkontoret/utbildningsrummet på Regional enhet Nord.
+- Maja-pärmen innehåller privata familjebilder och anteckningar om Eriks missade löften; den bedöms som privat påverkan mot anhörig.
+- Staffan beslutar att pärmen ska förseglas separat och inte ingå i personalakt eller cirkulerande bilagor.
+- Henrik informerar Erik strukturerat vid småbåtshamnen.
+- Erik väljer att inte läsa pärmen nu och inte låta Mats äga hans skam.
+- Mats förs bort. Erik åker mot Maja och Karin.
+
+
+## Efter småbåtshamnen / skyddad återförening
+
+Erik förs till en skyddad, icke namngiven plats. Karin och Maja verifierar honom med kontrollfrasen förrgårspastan/mikron och extra frågan om såsen. Erik återförenas med Maja, berättar begränsad sanning om Maja-pärmen och lovar inte att allt är över. Familjen förbereder sig för att flyttas vidare utan att plats sägs högt.
+
+
+## Epilog / dagarna efter
+
+- Eriks röda pärm dokumenteras formellt i närvaro av Staffan, Amina och andra vittnen.
+- Pärmen hanteras som bevis men får inte ensam bära sanningen.
+- Sara vårdas på sjukhus och förbereds för fortsatt förhör och intern/juridisk efterprocess.
+- Erik, Karin och Maja börjar prata om Maja-pärmen och beslutar att den inte ska läsas som självstraff eller i affekt.
+- Några dagar senare går Erik, Karin och Maja ut på isen i Luleå. Slutbilden visar dem tillsammans, försiktiga men inte stillastående.

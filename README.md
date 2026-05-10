@@ -39,3 +39,13 @@ Detta är projektarkivet för thrillern **Under isen**.
 ## Aktuell översikt
 
 Efter kapitel 24 finns en samlad lägesbild och reviderad slutplan i `projektoversikt-efter-kapitel-24.md`.
+
+
+## Senaste status v27
+
+Kapitel 26 är sparat. Nästa kapitel är kapitel 27, återföreningen mellan Erik, Maja och Karin.
+
+
+## Senaste status v29
+
+Kapitel 28 är sparat. Första fullständiga utkastet av **Under isen** är klart i 28 kapitel. Nästa steg är revision och kontinuitetsgenomgång.
