@@ -75,3 +75,12 @@ Kapitel 27 lades till. Fokus: Erik återförenas med Maja och Karin, kontrollfra
 ## Kapitel 28 – Under isen
 
 Kapitel 28 lades till och första fullständiga utkastet avslutades. Slutkapitlet knyter ihop beviskedjan kring Eriks röda pärm, Saras oavgjorda skuld och relation till Erik, samt familjens första försiktiga steg framåt. Slutbilden på isen i Luleå markerar romanens titel och tema: allt under ytan finns kvar, men Erik står inte längre ensam.
+
+
+## 2026-05-10 – EPUB-metadata och reproducerbar export
+
+- Lade till `epub-metadata.md` med titel, författare, språk, exportordning och regler för läsar-EPUB.
+- Lade till `forsattssida.md` med titeln **Under isen** och författaren **Erland Lindmark**.
+- Lade till `om-boken.md` med baksidestext/Om boken.
+- Uppdaterade `README.md` med EPUB-exportinstruktioner.
+- Uppdaterade `projektstatus.md` till komplett första utkast och noterade reproducerbar EPUB-export.

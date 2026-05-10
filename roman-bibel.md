@@ -4,6 +4,10 @@
 
 **Under isen**
 
+## Författare
+
+**Erland Lindmark**
+
 ## Genre
 
 Spionthriller.

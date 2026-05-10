@@ -49,3 +49,20 @@ Kapitel 26 är sparat. Nästa kapitel är kapitel 27, återföreningen mellan Er
 ## Senaste status v29
 
 Kapitel 28 är sparat. Första fullständiga utkastet av **Under isen** är klart i 28 kapitel. Nästa steg är revision och kontinuitetsgenomgång.
+
+
+## EPUB-export
+
+För att kunna återskapa samma EPUB-export finns nu följande filer i projektroten:
+
+- `epub-metadata.md` – titel, författare, språk, exportordning och EPUB-regler.
+- `forsattssida.md` – titelsida/försättssida.
+- `om-boken.md` – baksidestext/Om boken.
+
+Aktuell EPUB-metadata:
+- Titel: **Under isen**
+- Författare: **Erland Lindmark**
+- Språk: `sv`
+- Rekommenderat EPUB-filnamn: `under-isen-erland-lindmark.epub`
+
+Vid EPUB-export ska kapitel 1–28 användas som boktext. Kapitelnoteringar är arbetsmaterial och bör normalt inte tas med i läsarversionen.
