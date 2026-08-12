@@ -94,3 +94,10 @@ Kapitel 28 lades till och första fullständiga utkastet avslutades. Slutkapitle
 - Lagt till publishing-metadata med titel **Under isen** och författare **Erland Lindmark**.
 - Lokal validering med `python3 scripts/validate_project.py .` är OK.
 
+## GitHub Actions-fix
+
+- Åtgärdat Preview-actionens PDF-fel `Undefined control sequence \tightlist`.
+- Uppdaterat `publishing/pdf-template.tex` med `\tightlist`-definition.
+- Lagt till robust font-fallback i PDF-mallen.
+- Lokal validering OK.
+- Lokal byggtest av EPUB + PDF OK.
