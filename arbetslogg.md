@@ -84,3 +84,13 @@ Kapitel 28 lades till och första fullständiga utkastet avslutades. Slutkapitle
 - Lade till `om-boken.md` med baksidestext/Om boken.
 - Uppdaterade `README.md` med EPUB-exportinstruktioner.
 - Uppdaterade `projektstatus.md` till komplett första utkast och noterade reproducerbar EPUB-export.
+
+## GitHub Actions-publicering
+
+- Infört GitHub Actions-koncept enligt bifogat publiceringskit.
+- Anpassat workflows till projektet **Under isen**.
+- Lagt `.github/` i projektroten på samma nivå som `README.md`.
+- Lagt till valideringsscript och byggscript för EPUB/PDF.
+- Lagt till publishing-metadata med titel **Under isen** och författare **Erland Lindmark**.
+- Lokal validering med `python3 scripts/validate_project.py .` är OK.
+

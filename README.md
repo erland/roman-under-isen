@@ -66,3 +66,35 @@ Aktuell EPUB-metadata:
 - Rekommenderat EPUB-filnamn: `under-isen-erland-lindmark.epub`
 
 Vid EPUB-export ska kapitel 1–28 användas som boktext. Kapitelnoteringar är arbetsmaterial och bör normalt inte tas med i läsarversionen.
+## GitHub Actions och publicering
+
+Projektet är förberett för GitHub-baserad validering och publicering enligt publiceringskitet.
+
+Strukturen ligger i repositoryroten, på samma nivå som denna `README.md`:
+
+```text
+.github/
+  workflows/
+    01-validate.yml
+    02-build-preview.yml
+    03-release.yml
+scripts/
+  validate_project.py
+  build_book.py
+publishing/
+  metadata.yaml
+  epub.css
+  fix-epub-after-pandoc.py
+  pdf-template.tex
+  pdf-filter.lua
+  build-notes.md
+```
+
+Arbetsflöden:
+
+- **Validate** kör projektvalidering på push/pull request mot `main`.
+- **Build Preview** startas manuellt och bygger EPUB + PDF som ett gemensamt artifact `under-isen-preview`.
+- **Release** körs på `v*`-taggar och laddar upp EPUB + PDF som separata GitHub Release-assets.
+
+Bokbygget använder `Erland Lindmark` som författare och `Under isen` som titel via `publishing/metadata.yaml`.
+
