@@ -60,3 +60,6 @@ Projektet har kompletterats med GitHub Actions för reproducerbar validering och
 
 `.github` ligger i projektroten på samma nivå som `README.md`.
 
+## GitHub Actions-status
+
+Preview-actionens PDF-steg har patchats efter fel på `\tightlist` i LaTeX-mallen. `publishing/pdf-template.tex` innehåller nu definition för Pandocs `\tightlist` och en robustare font-fallback. Lokal testbyggning av EPUB + PDF har gått igenom.

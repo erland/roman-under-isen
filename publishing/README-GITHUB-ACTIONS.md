@@ -37,3 +37,9 @@ python3 scripts/build_book.py --output-dir dist
 ```
 
 Pandoc-versionen är låst till `3.1.11.1`.
+
+## Felsökning
+
+Om PDF-steget faller med `Undefined control sequence \tightlist` betyder det att Pandoc har skapat en kompakt lista i LaTeX-utdata. Detta är hanterat i den medföljande `publishing/pdf-template.tex` genom en `\providecommand{\tightlist}{...}`-definition.
+
+PDF-mallen försöker använda TeX Gyre Pagella när fonten finns. Om den saknas faller den tillbaka till Noto Serif och därefter generell serif.

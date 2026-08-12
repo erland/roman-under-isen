@@ -12,7 +12,15 @@ $if(pdf-font-dir)$
   BoldItalicFont=texgyrepagella-bolditalic
 ]{texgyrepagella}
 $else$
-\setmainfont{TeX Gyre Pagella}
+\IfFontExistsTF{TeX Gyre Pagella}{
+  \setmainfont{TeX Gyre Pagella}
+}{
+  \IfFontExistsTF{Noto Serif}{
+    \setmainfont{Noto Serif}
+  }{
+    \setmainfont{serif}
+  }
+}
 $endif$
 
 \usepackage[
@@ -35,6 +43,13 @@ $endif$
 \usepackage{tocloft}
 \usepackage{ragged2e}
 \usepackage{xcolor}
+
+% Pandoc emits \tightlist for compact Markdown lists. Keep it as a no-op
+% so custom PDF templates work with lists in generated front/back matter.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
+
 
 \setstretch{1.28}
 \setlength{\parindent}{0pt}
